@@ -1,0 +1,27 @@
+
+	body {
+  background-color: #7B9EA8;
+}
+
+h1 {
+  color: #F4FEC1;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  color: #F4FEC1;
+}
+
+h3 {
+  font-size: 22px;
+  color: #F4FEC1;
+}
+
+p {
+  
+  font-size: 16px;
+}
+
+*{
+	font-family: Monaco;
+}
